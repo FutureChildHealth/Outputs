@@ -1,4 +1,6 @@
 # Future Child Health Outputs
+
+<img align="right" src="www/paper.png" width="300" style="margin-top: 20px">
 Papers arising from the Future Child Health research team<br>
 <br>
 - Ubalde, J., Bradshaw, C.J.A., Fatima, S.H., Le Souëf, P.N., Judge, M.A. 2024. <a href="10.2139/ssrn.4955809">Systematic review of climate-change interventions to improve child health</a>. <strong><em>SSRN</em></strong> doi:10.2139/ssrn.4955809 (preprint) (<a href="https://github.com/FutureChildHealth/Outputs/blob/main/PDF/Ubalde%20et%20al.%202024-SSRN(preprint).pdf">PDF</a>)
