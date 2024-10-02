@@ -1,8 +1,9 @@
 # Future Child Health Outputs
-
 <img align="right" src="www/paper.png" width="200" style="margin-top: 20px">
+
 Papers arising from the Future Child Health research team<br>
 <br>
+
 - Ubalde, J., Bradshaw, C.J.A., Fatima, S.H., Le Souëf, P.N., Judge, M.A. 2024. <a href="10.2139/ssrn.4955809">Systematic review of climate-change interventions to improve child health</a>. <strong><em>SSRN</em></strong> doi:10.2139/ssrn.4955809 (preprint) (<a href="https://github.com/FutureChildHealth/Outputs/blob/main/PDF/Ubalde%20et%20al.%202024-SSRN(preprint).pdf">PDF</a>)
 - Bradshaw, C.J.A., Judge, M.A., Blumstein, D.T., Ehrlich, P.R., Dasgupta, A.N.Z., Wackernagel, M., Weeda, L.J.Z., Le Souëf, P.N. 2024. <a href="http://doi.org/10.2139/ssrn.4788003">Global human population ended self-facilitation in the 1950s</a>. <strong><em>SSRN</em></strong> doi:10.2139/ssrn.4788003 (preprint) (<a href="https://github.com/FutureChildHealth/Outputs/blob/main/PDF/Bradshaw%20et%20al.%202024-SSRN(preprint).pdf">PDF</a>)
 - Judge, M.A., Saraswati, C.M., Weeda, L.J.Z., Bassat, Q., Prata, N., Le Souëf, P.N., Bradshaw, C.J.A. 2024. <a href="http://doi.org/10.2139/ssrn.4795464">Long-term benefits of curbing human population growth</a>. <strong><em>SSRN</em></strong> doi:10.2139/ssrn.4795464 (preprint) (<a href="https://github.com/FutureChildHealth/Outputs/blob/main/PDF/Judge%20et%20al.%202024-SSRN.pdf">PDF</a>)
