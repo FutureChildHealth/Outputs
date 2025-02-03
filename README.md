@@ -5,6 +5,9 @@ Papers arising from the Future Child Health research team<br>
 <br>
 
 ### Preprints
+Fatima, SH, CJA Bradshaw, ZS Bhutta, J Liu, J Das, S Meherali, ZS Lassi.
+
+- Fatima, S.H., Bradshaw, C.J.A., Bhutta, Z.S., Liu, J., Das, J., Meherali, S., Lassi, ZS. 2025. <a href="https://doi.org/10.2139/ssrn.5116051">Disproportionate climate burden of rising temperature on low birth weights in a health-compromised nation</a>. <strong><em>SSRN</em></strong> doi:10.2139/ssrn.5116051 (<a href="https://github.com/FutureChildHealth/Outputs/blob/main/PDF/Fatima%20et%20al.%202025-SSRN(preprint).pdf">PDF</a>)
 - Le Souëf, P.N., Weeda, L.J.Z, Judge, M.A., Saraswati, C.M., Bassat, Q., Prata, N., Bradshaw, C.J.A. 2024. <a href="http://doi.org/10.22541/au.173557431.12387801/v1">Underestimating the risks of overpopulation endangers the health and lives of future children</a>. <strong><em>Authorea</em></strong> doi:10.22541/au.173557431.12387801/v1 (<a href="https://github.com/FutureChildHealth/Outputs/blob/main/PDF/Le%20Soue%CC%88f%20et%20al.%202024-Authorea.pdf">PDF</a>)
 - Fatima, S.H., Judge, M.A., Le Souëf, P.N., Bradshaw, C.J.A. 2024. <a href="http://doi.org/10.1101/2024.12.24.24319610">Impact of climate change on diarrhoea risk in low- and middle-income countries</a>. <strong><em>medRχiv</em></strong> doi:10.1101/2024.12.24.24319610 (<a href="https://github.com/FutureChildHealth/Outputs/blob/main/PDF/Fatima%20et%20al.%202024-medRχiv(preprint).pdf">PDF</a>)
 - Ubalde, J., Bradshaw, C.J.A., Fatima, S.H., Le Souëf, P.N., Judge, M.A. 2024. <a href="http://doi.org/10.2139/ssrn.4955809">Systematic review of climate-change interventions to improve child health</a>. <strong><em>SSRN</em></strong> doi:10.2139/ssrn.4955809 (<a href="https://github.com/FutureChildHealth/Outputs/blob/main/PDF/Ubalde%20et%20al.%202024-SSRN(preprint).pdf">PDF</a>)
